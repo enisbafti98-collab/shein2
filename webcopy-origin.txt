@@ -1,0 +1,36 @@
+Uri: https://cloud.umami.is/script.js
+File Name: C:\Downloaded Web Sites\girliesgifts.com\script.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap
+File Name: C:\Downloaded Web Sites\girliesgifts.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\girliesgifts.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\girliesgifts.com\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://girliesgifts.com/
+File Name: C:\Downloaded Web Sites\girliesgifts.com\index.htm
+Content Type: text/html
+
+Uri: https://i.postimg.cc/3NWCSpDv/upscalemedia-transformed-1.jpg
+File Name: C:\Downloaded Web Sites\girliesgifts.com\3NWCSpDv\upscalemedia-transformed-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i.postimg.cc/rppXNYm8/67829a8592805-66f2edc54b343-image1.png
+File Name: C:\Downloaded Web Sites\girliesgifts.com\rppXNYm8\67829a8592805-66f2edc54b343-image1.png
+Content Type: image/png
+
+Uri: https://i.postimg.cc/zBfxrrSy/c5910bd5-e5b2-4c70-b124-9560d8cbf698-link-in-bio-links-block-home-2af2051e-f17c-4f49-8af7-1eac99.webp
+File Name: C:\Downloaded Web Sites\girliesgifts.com\zBfxrrSy\c5910bd5-e5b2-4c70-b124-9560d8cbf698-link-in-bio-links-block-home-2af2051e-f17c-4f49-8af7-1eac99.webp
+Content Type: image/webp
+
+Uri: https://i.postimg.cc/ZqFcCJSC/upscalemedia-transformed.jpg
+File Name: C:\Downloaded Web Sites\girliesgifts.com\ZqFcCJSC\upscalemedia-transformed.jpg
+Content Type: image/jpeg
+
